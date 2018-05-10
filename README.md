@@ -13,7 +13,7 @@ A website to track your training and times for triathlons.
   * Pace
   * Overall Time
 * Post achievements to Facebook
-* 
+
 # Technology
 * Bootstrap Template: Adminator
 * Laravel PHP Framework
